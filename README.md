@@ -1,6 +1,8 @@
 # dEMO
 Este es un demo para la clase del sabado
 
+Esta es la version de escritorio otra vez
+
 # Esta es la edicion desde internet
 
 Esta es una seccion
