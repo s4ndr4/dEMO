@@ -1,6 +1,7 @@
 # dEMO
 Este es un demo para la clase del sabado
 
+# Esta es la edicion desde internet
 
 Esta es una seccion
 
@@ -26,3 +27,4 @@ asf a
 esta palabra esta en **negrilla**
 
 esta palabra esta en *italica*
+
